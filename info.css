@@ -15,34 +15,6 @@ body {
     color: #000080;
   }
   
-  .container {
-    display:flex;
-    justify-content: center;
-    align-items: baseline;
-    height: 100vh;
-  }
-  
-  .card {
-    border: 2px solid #FFA500;
-    border-radius: 10px;
-    padding: 20px;
-    width: 500px;
-    text-align: center;
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-    border: 1px solid #FFA500;
-    border-radius: 5px;
-  }
-  
-  p {
-    margin-top: 20px;
-    font-size: 18px;
-    line-height: 1.5;
-  }
-  
   .nav {
     background-color: #FFA500;
     color: #FFFFFF;
